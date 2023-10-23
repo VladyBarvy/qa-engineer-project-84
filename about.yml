@@ -1,0 +1,12 @@
+---
+name: Vladimir Barsukov
+job: QA Engineer
+level: junior
+email: vladbarhexlet@yandex.ru
+description: |
+  Инженер-метролог, разработчик десктоп-приложений для ОС Windows
+skills: # список навыков в виде списка, напишите что-то свое
+  - функциональное тестирование
+  - написание багрепортов
+  - Linux
+  - английский язык A2
