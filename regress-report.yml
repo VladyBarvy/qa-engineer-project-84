@@ -82,7 +82,7 @@ test-cases:
 
 - summary: |
     Проверка адаптивности сайта
-  status:pass
+  status: pass
 
 bugreports:
   - summary: |
